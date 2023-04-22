@@ -36,3 +36,9 @@ A tela de Checkout é apresentada apenas na vertical para uma melhor visualizaç
 
 Este aplicativo é um exemplo de como a responsividade pode ser implementada em um aplicativo Flutter, permitindo que os usuários tenham uma experiência confortável e consistente, independentemente da orientação do dispositivo utilizado.
 
+## Vertical
+![alt text](https://github.com/Aniro-Montenegro/flutter_layout_responsive/blob/main/imagens-app/1.png?raw=true)
+![alt text](https://github.com/Aniro-Montenegro/flutter_layout_responsive/blob/main/imagens-app/2.png?raw=true)
+![alt text](https://github.com/Aniro-Montenegro/flutter_layout_responsive/blob/main/imagens-app/3.png?raw=true)
+![alt text](https://github.com/Aniro-Montenegro/flutter_layout_responsive/blob/main/imagens-app/4.png?raw=true)
+![alt text](https://github.com/Aniro-Montenegro/flutter_layout_responsive/blob/main/imagens-app/5.png?raw=true)
